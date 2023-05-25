@@ -1,46 +1,46 @@
-Note all the code is in master branch ...
-# Frontend-Dev-Consuma
-My Portfolio Website
-This is my personal portfolio website, built using ReactJS. It showcases my skills, work experience, hobbies, and contact information. The website is designed with a modern and responsive layout.
+Frontend-Dev-Consuma
+Frontend-Dev-ConsumaMy Portfolio This is a portfolio website built using ReactJS and Vite.
 
-##Installation
-1)Clone the repository to your local machine using the following command:
-git clone https://github.com/Meghana-pheonix/Frontend-Dev-Consuma.git
+Project Setup Clone the repository to your local machine.
 
-2)Navigate to the project directory:
-cd portfolio
+git clone https://github.com/your-username/my-portfolio.git Navigate to the project directory.
 
-3)Install the required dependencies:
-npm install
+cd portfolio Install the dependencies using npm or yarn.
 
+npm install Create a .env file in the root directory and set the necessary environment variables.
 
-###
-Usage
-To start the development server and view the website locally, run the following command
-npm start
+Start the development server.
 
-This will launch the application in your default web browser at http://localhost:3000.
+npm run dev Open your browser and visit http://192.168.0.66:5173/ to view the website. 192.168.0.66 is my computer ip address, change accordingly to your system.
 
-####
-Customization
-Feel free to customize the content of the website according to your own needs. You can modify the introduction, contact information, work experience, skills, hobbies, and languages sections by editing the respective component files in the src/components directory.
+Build and Deployment To build and deploy the website, follow these steps:
 
-#####
-Deployment
-To deploy the website to a hosting platform of your choice, follow these steps:
+Build the project using the following command:
 
-1)Build the production-ready optimized version of the website:
-npm run build
-Deploy the contents of the build directory to your hosting platform. Refer to the documentation of your chosen hosting platform for specific deployment instructions.
-######License
-This project is licensed under the MIT License.
+npm run build This command will generate the optimized production-ready assets in the dist directory.
 
-#######Credits
-The design of this portfolio website was inspired by Figma Design.
+Upload the contents of the dist directory to your hosting provider or deployment platform of choice.
 
-########Contact
-If you have any questions or suggestions regarding this project, feel free to contact me:
+Configure the necessary environment variables in your deployment environment. Ensure that all required variables are set correctly.
 
-Email: meghanaur23@gmail.com
-LinkedIn: Meghana UR
-GitHub: Meghana-pheonix
+Start the production server:
+
+npm run start This command will start the server and make your portfolio website accessible at the provided URL.
+
+Customization Feel free to customize the website according to your needs. Update the content, styles, and configurations as required.
+
+Content Update the content sections of the website in their respective component files:
+
+Introduction: src/components/Introduction.js Contact and Links: src/components/ContactLinks.js Experience: src/components/Experience.js Skills: src/components/Skills.js Hobbies: src/components/Hobbies.js Languages: src/components/Languages.js Feel free to replace the dummy content with your own information hobbies, and languages.
+
+Contributing Contributions are welcome! If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
+
+License This project is licensed under the MIT License.
+
+Feel free to customize the instructions based on your project's specific requirements and any additional features you've implemented. Make sure to update the relevant sections with the appropriate file paths and instructions for running, building, and deploying the project using Vite.
+
+#######Credits The design of this portfolio website was inspired by Figma Design.
+
+########Contact If you have any questions or suggestions regarding this project, feel free to contact me:
+
+Email: meghanaur23@gmail.com LinkedIn: Meghana UR GitHub: Meghana-pheonix
