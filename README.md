@@ -1,9 +1,8 @@
-Frontend-Dev-Consuma
 Frontend-Dev-ConsumaMy Portfolio This is a portfolio website built using ReactJS and Vite.
 
 Project Setup Clone the repository to your local machine.
 
-git clone https://github.com/your-username/my-portfolio.git Navigate to the project directory.
+git clone https://github.com/Meghana-pheonix/Frontend-Dev-Consuma.git Navigate to the project directory.
 
 cd portfolio Install the dependencies using npm or yarn.
 
@@ -31,7 +30,7 @@ Customization Feel free to customize the website according to your needs. Update
 
 Content Update the content sections of the website in their respective component files:
 
-Introduction: src/components/Introduction.js Contact and Links: src/components/ContactLinks.js Experience: src/components/Experience.js Skills: src/components/Skills.js Hobbies: src/components/Hobbies.js Languages: src/components/Languages.js Feel free to replace the dummy content with your own information hobbies, and languages.
+Introduction: src/components/Introduction.js Contact and Links: src/components/ContactLinks.js Experience: src/components/Experience.js Skills: src/components/Skills.js Hobbies: src/components/Hobbies.js Languages: src/components/Languages.js Feel free to replace the dummy content with your own information,contacts and links, introduction,experience, skills,hobbies, and languages.
 
 Contributing Contributions are welcome! If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
 
