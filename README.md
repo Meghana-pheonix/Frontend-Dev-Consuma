@@ -4,7 +4,7 @@ This is my personal portfolio website, built using ReactJS. It showcases my skil
 
 ##Installation
 1)Clone the repository to your local machine using the following command:
-git clone https://github.com/Meghana-pheonix/portfolio.git
+git clone https://github.com/Meghana-pheonix/Frontend-Dev-Consuma.git
 
 2)Navigate to the project directory:
 cd portfolio
