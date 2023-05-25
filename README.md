@@ -6,7 +6,7 @@ Project Setup
 Clone the repository to your local machine.
 
 
-git clone https://github.com/Meghana-pheonix/portfolio.git
+git clone https://github.com/Meghana-pheonix/Frontend-Dev-Consuma.git
 Navigate to the project directory.
 
 cd portfolio
