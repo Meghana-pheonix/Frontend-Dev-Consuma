@@ -6,7 +6,7 @@ Project Setup
 Clone the repository to your local machine.
 
 
-git clone https://github.com/your-username/my-portfolio.git
+git clone https://github.com/your-username/portfolio.git
 Navigate to the project directory.
 
 cd portfolio
@@ -56,7 +56,7 @@ Experience: src/components/Experience.js
 Skills: src/components/Skills.js
 Hobbies: src/components/Hobbies.js
 Languages: src/components/Languages.js
-Feel free to replace the dummy content with your own information  hobbies, and languages.
+Feel free to replace the dummy content with your own information,contacts and links, introduction,experience, skills,hobbies, and languages.
 
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
